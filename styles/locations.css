@@ -10,6 +10,15 @@
     background-color: white;
 }
 
+.header--locations {
+    margin: 0;
+    padding: 0;
+    background-color: #BADCA7;
+}
+
+.location__details {
+    padding: 1rem;
+}
 
 .location__picture {
     max-width: 10rem;

@@ -1,14 +1,21 @@
 .fishList {
-    background-color: #cccccc;
+    background-color: lavender;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding: 10px;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
 }
 
 .fish {
-    background-color: #666666;
-   
+    background-color: lightcoral;
+    margin-bottom: 1.25rem;
+}
+
+.header--fish {
+    margin: 0;
+    padding: 0;
+    background-color: lavender;
 }
 
 
