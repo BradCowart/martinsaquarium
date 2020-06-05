@@ -1,0 +1,161 @@
+{
+    "fish": [
+        {
+            "id": 1,
+            "species": "Trigger Fish",
+            "length": 12,
+            "location": "Bay of Bengal",
+            "picture": "./images/triggerfish.jpg",
+            "food": "Baby squid",
+            "name": "Bubbles"
+        },
+        {
+            "id": 2,
+            "species": "Parrot Fish",
+            "length": 8,
+            "location": "Sea of Google",
+            "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+            "food": "Popcorn",
+            "name": "Angus"
+        },
+        {
+            "id": 3,
+            "species": "Swordfish",
+            "length": 323,
+            "location": "Atlantic Ocean",
+            "picture": "./images/chester.jpeg",
+            "food": "Herring",
+            "name": "Chester"
+        },
+        {
+            "id": 4,
+            "species": "Angel Fish",
+            "length": 8,
+            "location": "Pacific Ocean",
+            "picture": "./images/angelfish.jpg",
+            "food": "Plankton",
+            "name": "Michael"
+        },
+        {
+            "id": 5,
+            "species": "Elegant Corydoras",
+            "length": 3,
+            "location": "Caribbean Sea",
+            "food": "Algae",
+            "name": "Sweet",
+            "picture": "./images/pink.jpg"
+        },
+        {
+            "id": 6,
+            "species": "Orange Roughy",
+            "length": 10,
+            "location": "Southern Ocean",
+            "picture": "./images/roughy.jpeg",
+            "food": "Anchovies",
+            "name": "Michael"
+        },
+        {
+            "id": 7,
+            "species": "Trigger Fish",
+            "length": 12,
+            "location": "Bay of Bengal",
+            "picture": "./images/triggerfish.jpg",
+            "food": "Baby squid",
+            "name": "Bubbles"
+        },
+        {
+            "id": 8,
+            "species": "Parrot Fish",
+            "length": 8,
+            "location": "Sea of Google",
+            "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+            "food": "Popcorn",
+            "name": "Angus"
+        },
+        {
+            "id": 9,
+            "species": "Swordfish",
+            "length": 217,
+            "location": "Atlantic Ocean",
+            "picture": "./images/chester.jpeg",
+            "food": "Herring",
+            "name": "Chester"
+        },
+        {
+            "id": 10,
+            "species": "Angel Fish",
+            "length": 8,
+            "location": "Pacific Ocean",
+            "picture": "./images/angelfish.jpg",
+            "food": "Plankton",
+            "name": "Michael"
+        },
+        {
+            "id": 11,
+            "species": "Elegant Corydoras",
+            "length": 5,
+            "location": "Caribbean Sea",
+            "food": "Algae",
+            "name": "Sweet",
+            "picture": "./images/pink.jpg"
+        },
+        {
+            "id": 12,
+            "species": "Orange Roughy",
+            "length": 20,
+            "location": "Southern Ocean",
+            "picture": "./images/roughy.jpeg",
+            "food": "Anchovies",
+            "name": "Michael"
+        }
+    ],
+    "locations": [ 
+        {
+            "name": "# 1",
+            "image": "./images/bengal.jpeg",
+            "descp": "Location 1"
+        },
+        {
+            "name": "# 2",
+            "image": "./images/pacific.jpeg",
+            "descp": "Location 2"
+        },
+        {
+            "name": "# 3",
+            "image": "./images/southern.png",
+            "descp": "Location 3"
+        }
+    ],
+    "tips": [
+        {
+            "tip": "Tip 1"
+        },
+        {
+            "tip": "Tip 2"
+        },
+        {
+            "tip": "Tip 3"
+        },
+        {
+            "tip": "Tip 4"
+        }
+    ],
+    "quotes":[
+        {
+            "quote": "Quote 1",
+            "quoter": "Quoter 1"
+        }, 
+        {
+            "quote": "Quote 2",
+            "quoter": "Quoter 2"
+        }, 
+        {
+            "quote": "Quote 3",
+            "quoter": "Quoter 3"
+        }, 
+        {
+            "quote": "Quote 4",
+            "quoter": "Quoter 4"
+        }      
+    ]
+}
